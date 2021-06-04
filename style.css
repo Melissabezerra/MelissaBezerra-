@@ -1,0 +1,56 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.item{
+border: 2px solid rgb(30, 216, 176)50, 103, 103);
+border-radius: 7px;
+width: 150px;
+height: 260px;
+display: inline-block;
+padding: 7px;
+margin: 15px 30px;
+}
+img{
+width: 130px;
+height: 160px;
+border-radius: 7px;
+}
+span{
+color:rgb(30, 216, 176)50, 103, 103);
+}
+#preco{
+color: rgb(30, 216, 176)50, 103, 103);
+#cre{
+margin-top: 50px;
+margin-left: 10px;
+color:rgb(30, 216, 176)50, 103, 103);
+#link{
+  margin-left: 10px;
+color: rgb(30, 216, 176)50, 103, 103);
+}
+#link{
+margin-left: 20px;
+color: rgb(30, 216, 176)50, 103, 103);
+}
+#titulo{
+margin-left: 10px;
+color :rgb(30, 216, 176)50, 103, 10 3);
+}
+#ofertas{
+margin-left:20px;
+color:rgb(30, 216, 176)50, 103, 103);
+}
+#por{
+margin-top: 10px;
+color: rgb(30, 216, 176)50, 103, 103);
+}
+body { background: rgb(51, 24, 201);
+}
+#nome{
+color:rgb(30, 216, 176)50, 103, 103);
+}
+#nov{
+color: rgb(30, 216, 176)50, 103, 103);
+}
